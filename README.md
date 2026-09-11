@@ -35,7 +35,7 @@ I am looking for opportunities where I can grow as a software engineer while con
 
 ### Connect
 
-- GitHub: [@JananiVaradharajan](https://github.com/JananiVaradharajan)
+- GitHub: [@VJanani25](https://github.com/VJanani25)
 - LinkedIn: To be added
 - Email: To be added
 
