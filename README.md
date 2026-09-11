@@ -36,7 +36,8 @@ I am looking for opportunities where I can grow as a software engineer while con
 ### Connect
 
 - GitHub: [@VJanani25](https://github.com/VJanani25)
-- LinkedIn: To be added
-- Email: To be added
+- LinkedIn: [Janani Varadharajan](https://www.linkedin.com/in/janani-varadharajan-06b37628b)
+- Email: [janani1674@gmail.com](mailto:janani1674@gmail.com)
+- Phone: [8870970409](tel:+918870970409)
 
 > This profile intentionally lists only skills and project evidence currently represented in the portfolio.
