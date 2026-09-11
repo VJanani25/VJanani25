@@ -1,6 +1,6 @@
 # Janani Varadharajan
 
-## Computer Science Student | Python Developer | AI/ML Enthusiast
+## ELECTRONICS AND COMMUNICATION ENGINEERING Student | Java and Python Developer | AI/ML Enthusiast
 
 I build practical software systems that connect clear problem framing with working implementations. I am seeking software developer, Python developer, backend, and IT internship opportunities where I can contribute, learn quickly, and grow through real engineering work.
 
