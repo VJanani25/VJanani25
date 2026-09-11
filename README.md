@@ -18,7 +18,7 @@ I build practical software systems that connect clear problem framing with worki
 
 ### Featured project
 
-[Hiver Support Agent](https://github.com/JananiVaradharajan/hiver-support-agent)  
+[Hiver Support Agent](https://github.com/VJanani25/hiver-support-agent)  
 An interview-ready project for the Hiver SDE Intern assignment. It includes deterministic demo data, a real-data ingestion path, retrieval-grounded response generation, conservative escalation logic, baselines, tests, and a transparent evaluation report.
 
 ### Portfolio direction
